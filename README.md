@@ -1,71 +1,93 @@
 # Project---Beta
-Sales company customer complaint analysis
+
+**Sales company customer complaint analysis**
+
 ---
+
 **Customer Complaints Analysis – Data Analytics Case Study**
+
 ---
+
 **Overview**
 
 This repository contains a data analytics project that examines customer complaints in a fictional sales company. It provides insights into how unresolved complaints impact revenue, retention, and overall customer satisfaction.
 
 **Project Scope**
 
-Identify key complaint trends (late deliveries, wrong products, customer service issues).
+1. Identify key complaint trends (late deliveries, wrong products, customer service issues).
 
-Analyze customer churn & retention based on complaint resolution times.
+2. Analyze customer churn & retention based on complaint resolution times.
 
-Evaluate underperforming sales reps & high-complaint product categories.
+3. Evaluate underperforming sales reps & high-complaint product categories.
 
-Develop actionable recommendations to reduce complaints and improve customer satisfaction.
+4. Develop actionable recommendations to reduce complaints and improve customer satisfaction.
 
 **Dataset Details**
 
 The dataset contains:
 
-Customer complaints data (region, complaint type, resolution time).
+1. Customer complaints data (region, complaint type, resolution time).
 
-Sales rep performance ratings.
+2. Sales rep performance ratings.
 
-Customer retention & churn status.
+3. Customer retention & churn status.
 
-Product categories with high complaint rates.
+4. Product categories with high complaint rates.
 
 **Tools Used**
 
 SQL – For querying and extracting key insights.
 
 Excel For visualizing complaint trends and impact.
+
 ---
+
 **Key Insights**
-43% of late deliveries led to complaints.
 
-1,699 customers churned due to late deliveries.
+1. 43% of late deliveries led to complaints.
 
-Only 454 customers reordered after experiencing an issue.
+2. 1,699 customers churned due to late deliveries.
 
-Resolution time matters – Lost customers had an avg. resolution time of 7 days, while repeat customers had 3 days.
+3. Only 454 customers reordered after experiencing an issue.
 
-Worst 5 sales reps had the lowest customer ratings.
+4. Resolution time matters – Lost customers had an avg. resolution time of 7 days, while repeat customers had 3 days.
 
-Electronics & Home Kitchen had the highest complaint rates.
+5. Worst 5 sales reps had the lowest customer ratings.
+
+6. Electronics & Home Kitchen had the highest complaint rates.
 
 
-**Issue	**                                          
-Late Deliveries	                        
-Wrong Products
-High Complaint                        
-Slow Resolution Time	                  
-Underperforming Sales Reps	          
+**Issue**   
+
+1. Late Deliveries	 
+
+2. Wrong Products
+
+3. High Complaint
+
+4. Slow Resolution Time
+
+5. Underperforming Sales Reps
+
 ---
-** Recommendation**
-Improve logistics & tracking.
-Strengthen inventory & order verification.
-Regions	Expand customer support teams.
-Reduce complaint resolution time to ≤3 days.
-Provide targeted training & performance monitoring.
+
+**Recommendation**
+
+1. Improve logistics & tracking.
+
+2. Strengthen inventory & order verification.
+
+3. Regions	Expand customer support teams.
+
+4. Reduce complaint resolution time to ≤3 days.
+
+5. Provide targeted training & performance monitoring.
+
 ---
 **How to Use This Repository**
-Check out the dataset in the data folder.
 
-Run SQL queries to extract insights.
+1. Check out the dataset in the data folder.
 
-View dashboards in Excel
+2. Run SQL queries to extract insights.
+
+3. View dashboards in Excel
