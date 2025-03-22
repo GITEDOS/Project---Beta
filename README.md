@@ -82,7 +82,11 @@ The dataset contains:
 
 5. Provide targeted training & performance monitoring.
 
+**Visuals**
+![2025-03-22 (4)](https://github.com/user-attachments/assets/4fb69d23-6cd9-42d1-bbce-04ebe8b690af)
+
 ---
+
 **How to Use This Repository**
 
 1. Check out the dataset in the data folder.
