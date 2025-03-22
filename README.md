@@ -1,10 +1,10 @@
 # Project---Beta
 
-**Sales company customer complaint analysis**
+## **Sales company customer complaint analysis**
 
 ---
 
-**Customer Complaints Analysis – Data Analytics Case Study**
+## **Customer Complaints Analysis – Data Analytics Case Study**
 
 ---
 
@@ -34,11 +34,13 @@ The dataset contains:
 
 4. Product categories with high complaint rates.
 
+--- 
+
 **Tools Used**
 
-SQL – For querying and extracting key insights.
+1. SQL – For querying and extracting key insights.
 
-Excel For visualizing complaint trends and impact.
+2. Excel For visualizing complaint trends and impact.
 
 ---
 
@@ -69,7 +71,6 @@ Excel For visualizing complaint trends and impact.
 
 5. Underperforming Sales Reps
 
----
 
 **Recommendation**
 
