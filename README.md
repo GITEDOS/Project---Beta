@@ -84,6 +84,9 @@ The dataset contains:
 
 **Visuals**
 ![2025-03-22 (4)](https://github.com/user-attachments/assets/4fb69d23-6cd9-42d1-bbce-04ebe8b690af)
+![2025-03-22 (6)](https://github.com/user-attachments/assets/2a5d6615-7bbf-4e6d-b9f8-8cbfaf445abb)
+![2025-03-22 (7)](https://github.com/user-attachments/assets/0bf8510f-fa20-4557-80a4-78ef0ed1a018)
+![2025-03-22 (8)](https://github.com/user-attachments/assets/b49435e5-ea36-4cd4-9f96-c5a6aad1073c)
 
 ---
 
