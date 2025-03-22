@@ -2,11 +2,9 @@
 
 ## **Sales company customer complaint analysis**
 
----
 
 ## **Customer Complaints Analysis – Data Analytics Case Study**
 
----
 
 **Overview**
 
